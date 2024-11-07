@@ -53,6 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=quinnotto&show_icons=true&theme=radical" alt="quinnotto's GitHub stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quinnotto&" alt="quinnotto" /></p>
+<p align="center><img" src="https://github-readme-streak-stats.herokuapp.com/?user=quinnotto&" alt="quinnotto" /></p>
 
 ---
