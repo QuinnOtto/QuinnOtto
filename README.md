@@ -42,9 +42,7 @@
 ### 📊 My Coding Languages
 
 <!-- Github language stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinnotto&layout=compact&theme=radical" alt="quinnotto's most used languages" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quinnotto&" alt="quinnotto" /></p>
 
 ---
 
