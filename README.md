@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙂 I’m Quinn Otto<br>📍 Based in Rotterdam-Netherlands<br>🌱 I’m currently learning react<br>
+🙂 I’m Quinn Otto<br>📍 Based in Rotterdam-Netherlands<br>🌱 I’m currently learning new things<br>
 
 
 # 💻 Tech Stack:
